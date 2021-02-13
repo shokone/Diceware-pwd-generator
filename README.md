@@ -42,7 +42,7 @@ usage: python dcpwdgen.py -h
                                                   
 	(Diceware PWD Generator by Shokone)
 	
-usage: dpwdgen.py [-h] [-v] [-n NUM]
+usage: dcpwdgen.py [-h] [-v] [-n NUM]
 
 optional arguments:
   -h, --help            show this help message and exit
